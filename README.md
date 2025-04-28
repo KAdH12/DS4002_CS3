@@ -1,6 +1,6 @@
 # Egg Price Case Study
 ## Hook and Rubric
-The [CS3 Hook](https://github.com/KAdH12/DS4002_CS3/blob/main/CS3%20Hook.pdf) document outlines the case study. The [CS3 Rubric](https://github.com/KAdH12/DS4002_CS3/blob/main/CS3%20Rubric.pdf) document gives more detail to the study including requirements about the formatting, submission, written report, and repository. These documents should provide all of the information needed to successfully complete the case study and should be read carefully.  
+The [CS3 Hook](https://github.com/KAdH12/DS4002_CS3/blob/main/CS3%20Hook.pdf) document outlines the case study. The [CS3 Rubric](https://github.com/KAdH12/DS4002_CS3/blob/main/CS3%20Rubric.pdf) document gives more detail to the study including requirements about the formatting, submission, written report, and repository. These documents provide all of the information needed to successfully complete the case study and should be read carefully.  
 
 ## Data
 The DATA folder contains the [Egg Price CSV](https://github.com/KAdH12/DS4002_CS3/blob/main/DATA/egg%20prices.csv) required for the case study as well as a [Data Appendix](https://github.com/KAdH12/DS4002_CS3/blob/main/DATA/data_appendix.pdf) with more information about the file. 
